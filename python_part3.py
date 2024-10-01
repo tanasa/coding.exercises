@@ -46,12 +46,6 @@ result_list = list(result)
 print(result_list)  # Output: [5, 7, 9]
 
 
-# In[ ]:
-
-
-
-
-
 # In[2]:
 
 
@@ -85,12 +79,6 @@ print(result)  # Output: 120
 numbers = [1, 2, 3]
 result = reduce(lambda x, y: x + y, numbers, 10)
 print(result)  # Output: 16 (10 + 1 + 2 + 3)
-
-
-# In[ ]:
-
-
-
 
 
 # In[3]:
@@ -142,11 +130,6 @@ consonant_list
 print(consonant_list)  # Output: "Hll Wrld"
 
 
-# In[ ]:
-
-
-
-
 
 # In[4]:
 
@@ -169,12 +152,6 @@ fruits = ['apple', 'banana', 'cherry']
 
 for index, fruit in enumerate(fruits):
     print(index, fruit)
-
-
-# In[ ]:
-
-
-
 
 
 # In[5]:
@@ -228,12 +205,6 @@ result = list(combined)
 print(result)  # Output: [('Alice', 85), ('Bob', 90)]
 
 
-# In[ ]:
-
-
-
-
-
 # In[6]:
 
 
@@ -251,12 +222,6 @@ print(scores)  # Output: (85, 90, 95)
 
 # When you have a list of tuples (or any iterable of iterables) and 
 # you want to separate or "unzip" them into individual lists, you can use the * operator.
-
-
-# In[ ]:
-
-
-
 
 
 # In[7]:
@@ -409,10 +374,5 @@ sorted_array3 = bubble_sort(array3)
 print("Sorted array1:", sorted_array1)  # Output: Sorted array1: [1, 2, 5, 5, 6, 9]
 print("Sorted array2:", sorted_array2)  # Output: Sorted array2: [0, 3, 4, 7, 8]
 print("Sorted array3:", sorted_array3)  # Sorted array3: [11, 13, 15, 17, 19]
-
-
-# In[ ]:
-
-
 
 
