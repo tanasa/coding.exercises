@@ -1,3 +1,0 @@
-The file provides an example of how to use Python. 
-The more I learn, the more enjoyable it becomes. 
-I hope Sofia learns it soon.
